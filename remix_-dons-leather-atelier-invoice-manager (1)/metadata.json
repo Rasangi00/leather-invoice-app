@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Dons Leather Atelier Invoice Manager",
-  "description": "A responsive invoice management system for managing clients, leather products history, premium styles, and tracking payments.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
